@@ -151,7 +151,6 @@ img {
 
 
 @media (max-width: 660px) {
-  
 
   .imgMain {
     width: 330px;
@@ -160,8 +159,7 @@ img {
   }
 
   .overlay{
-
-  width:330px;
+    width:330px;
   }
 }
 
